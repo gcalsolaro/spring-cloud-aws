@@ -11,8 +11,8 @@
    * [Spring Cloud AWS](#spring-cloud-aws)
       * [Architecture](#architecture)
       * [Prerequisites](#prerequisites)
-      * [Running Instructions for AWS:S3](#running-instructions-for-aws-s3)
-      * [Running Instructions for AWS:SNS](#running-instructions-for-aws-sns)
+      * [Running Instructions for AWS S3](#running-instructions-for-aws-s3)
+      * [Running Instructions for AWS SNS](#running-instructions-for-aws-sns)
       
 
 ## Architecture
