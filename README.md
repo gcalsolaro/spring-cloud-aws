@@ -28,7 +28,7 @@ The technology stack used is provided by Spring, in particular:
 * **_Maven_** - Download latest version
 * **_AWS Account_**
 
-## Running Instructions for AWS:S3
+## Running Instructions for AWS S3
  - Change *"accessKey"* and *"secretKey"* inside the **application.yml** file with your AWS personal data
 
 ### Rest API
@@ -40,7 +40,7 @@ Method | URI | Description | Parameters |
 `POST` | */aws/s3/upload* | Upload content
 `DELETE` | */aws/s3/delete* | Delete S3 Bucket 
 
-## Running Instructions for AWS:SNS
+## Running Instructions for AWS SNS
  - Change *"accessKey"* and *"secretKey"* inside the **application.yml** file with your AWS personal data
 
 ### Rest API
